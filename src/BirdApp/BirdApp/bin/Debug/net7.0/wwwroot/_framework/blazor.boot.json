@@ -198,13 +198,13 @@
       "mscorlib.dll": "sha256-pO\/W4w\/X+UjVMUMaxE5tYTQ0tILP+hmMu0zi0MSVBLc=",
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
-      "BirdApp.dll": "sha256-dkNDe30QarT5oDwVJyBLJDPV43C3ExU8JRnhy+xOGMQ="
+      "BirdApp.dll": "sha256-wPmPGwE1gdp0R5PqpyeibOT6e6ndXaIKxBvOLmRY0LE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BirdApp.pdb": "sha256-zXlRIHNtooyecA6DQOxw4hunK9LO7fMATWMH8jjjlIU="
+      "BirdApp.pdb": "sha256-i98t+s0XiX2KQdTDVjza\/+Rmtocbj8umQFjOwURVrrI="
     },
     "runtime": {
       "dotnet.7.0.0.ts3x2wmfjl.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",
