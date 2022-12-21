@@ -869,11 +869,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-CE3xIhGuPg1qc8wqRmaeUYUVRrFJgaKLdr7BKSfp0nY=",
+      "hash": "sha256-PICxGEWXBSloZPlybd1fPjSloVjzDR67AJ89TJ5mBGs=",
       "url": "_framework\/BirdApp.dll"
     },
     {
-      "hash": "sha256-beDf7jZUBspmcX1vsCygdsFq3LKb4CMjNs3ermOM7ko=",
+      "hash": "sha256-T7I4t3LW+itr0JYTP\/+5Ctzh3xD8a\/lYM99Pylsj\/Go=",
       "url": "_framework\/BirdApp.pdb"
     },
     {
@@ -881,9 +881,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-ya95h6TqRIZqpwM+I\/Ne7ZxgUyKi1VOfa+r\/h1FjIKE=",
+      "hash": "sha256-eY+tfurZTYKJVqvcFwLcO6WSS\/xuIrblKEYFduvzbtU=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "9mZOOfDv"
+  "version": "97TrTRgq"
 };

@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\GitHub\BirdApp\src\BirdApp\BirdApp\../../../</_PublishTargetUrl>
-    <History>True|2022-12-21T10:24:48.2397110Z;True|2022-12-21T18:51:34.3067208+09:00;True|2022-12-21T17:30:29.9578113+09:00;</History>
+    <History>True|2022-12-21T13:06:33.6865410Z;True|2022-12-21T19:24:48.2397110+09:00;True|2022-12-21T18:51:34.3067208+09:00;True|2022-12-21T17:30:29.9578113+09:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

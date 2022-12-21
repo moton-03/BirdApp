@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-qczTOnZzMEBWsBZnZTGGBLd5Tk0Qoj\/ASJQIIBDyQ6I=",
+      "hash": "sha256-XMW4B1RXUl8UQ6BRIzlYN5OSu4DOCySfzZNgoAcM40c=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-CE3xIhGuPg1qc8wqRmaeUYUVRrFJgaKLdr7BKSfp0nY=",
+      "hash": "sha256-PICxGEWXBSloZPlybd1fPjSloVjzDR67AJ89TJ5mBGs=",
       "url": "_framework\/BirdApp.dll"
     },
     {
@@ -225,5 +225,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "YcVr+UKP"
+  "version": "VggemJHk"
 };
